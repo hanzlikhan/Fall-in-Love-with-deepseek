@@ -73,15 +73,15 @@ CardioCare is an AI-powered tool that assists in diagnosing cardiovascular disea
 ## **Screenshots**
 
 ### **1. Home Page**
-![Home Page](images/home_page.png)
+![Home Page](home_page.png)
 *The home page of CardioCare with input fields and a PDF upload option.*
 
 ### **2. Diagnosis and Recommendations**
-![Diagnosis](images/diagnosis.png)
+![Diagnosis](diagnosis.png)
 *The app displays the recognized disease and personalized recommendations.*
 
 ### **3. Structured Recommendations**
-![Recommendations](images/recommendations.png)
+![Recommendations](recommendations.png)
 *Clear and structured recommendations for diet, exercise, medications, and prevention.*
 
 ---
