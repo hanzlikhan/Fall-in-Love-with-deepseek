@@ -1,6 +1,6 @@
 # **CardioCare: Cardiovascular Disease Diagnosis and Treatment Recommendation App**
 
-CardioCare is a Streamlit-based web application designed to help users diagnose cardiovascular diseases and receive personalized treatment recommendations. The app uses the DeepSeek AI model to analyze medical reports and patient data, providing clear and actionable insights.
+Cardio-Care is a Streamlit-based web application designed to help users diagnose cardiovascular diseases and receive personalized treatment recommendations. The app uses the DeepSeek AI model to analyze medical reports and patient data, providing clear and actionable insights.
 
 ---
 
