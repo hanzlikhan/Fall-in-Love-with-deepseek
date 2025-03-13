@@ -34,7 +34,7 @@ CardioCare is an AI-powered tool that assists in diagnosing cardiovascular disea
 
 ## **Problems and Solutions**
 
-### **Problem 1: Incomplete Responses from AI**
+### **Problem no 1: Incomplete Responses from AI**
 - **Issue**: The AI sometimes provides incomplete responses due to token limits.
 - **Solution**: Increased the `max_tokens` parameter in the API call to allow for longer responses. Optimized prompts to ensure concise yet complete outputs.
 
